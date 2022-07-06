@@ -1,7 +1,6 @@
-https://media-exp1.licdn.com/dms/image/C4D16AQFP5PfVbyaQeA/profile-displaybackgroundimage-shrink_200_800/0/1657094218507?e=1662595200&v=beta&t=7z-gyldP3XvBgyS8rwvhLg5J0Q_Eg_GqcDnNdY5sX1o
 ### Hi there 👋, This is Rokan
 #### I'm a Digital Marketer
-![I'm a Digital Marketer]
+![I'm a Digital Marketer](https://media-exp1.licdn.com/dms/image/C4D16AQFP5PfVbyaQeA/profile-displaybackgroundimage-shrink_200_800/0/1657094218507?e=1662595200&v=beta&t=7z-gyldP3XvBgyS8rwvhLg5J0Q_Eg_GqcDnNdY5sX1o)
 
 A creative and quick thinking individual with a bent towards communicating and building a relationship online. Well versed with digital marketing tools and strategies. Skilled in integrated marketing methodologies and can drive sales and increase brand awareness.
 
